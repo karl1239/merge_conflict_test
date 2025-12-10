@@ -1,1 +1,1 @@
-
+print("teine suvaline")
